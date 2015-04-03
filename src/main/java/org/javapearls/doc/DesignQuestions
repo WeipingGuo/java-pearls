@@ -1,0 +1,27 @@
+
+
+OO Design Questions
+
+1. Design an elevator system
+2. Design a resturant  reservation system
+3. Design a Taxi
+4. Design in-memory file system
+5. Given a list of documents and a query, how would you find the top 10 most relevant documents to that query?
+6. quickly predicting word the user wants to enter from the first few key pressed.
+	1) Trie
+	2) Frequency
+7. Design an OO parking lot. What classes and functions will it have.
+   It should say, full, empty and also be able to find spot for Valet parking.
+   The lot has 3 different types of parking: regular, handicapped and compact
+
+
+8. Design a Chess board game OOP , walk through the class and function
+	1) Builder pattern: to generate each
+	2) Command pattern: control what is the next step
+
+
+
+
+
+
+

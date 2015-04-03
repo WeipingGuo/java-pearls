@@ -1,0 +1,9 @@
+
+Algorithm 			worst-running-time average-running-time
+Insertion sort		n^2			n^2
+Merge sort 			nlgn		nlgn
+Heapsort		 	O(nlgn)
+Quicksort			n^2			nlgn
+Counting sort 		k + n		k + n
+Radix sort 			d(n+k)		d(n+k)
+Bucket sort 		n^2			n
